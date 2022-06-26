@@ -14,7 +14,7 @@ stylesheet
  .btn-primary:hover{ 
      color:#bcb88a; 
      border-color: #f000f8; /*set the color you want here*/ 
-     background-color: rgb(142, 243, 98); 
+     background-color: rgb(152, 243, 100); 
      font-weight: bold; 
      font-size: 15px; 
      border-radius: 12px; 
@@ -35,7 +35,7 @@ stylesheet
  .navbar ul li input:hover{ 
      color:#556b2f; 
      border-color: #f000f8; /*set the color you want here*/ 
-     background-color: rgb(142, 243, 98); 
+     background-color: rgb(152, 243, 100); 
      font-weight: bold; 
      font-size: 15px; 
      border-radius: 12px; 
