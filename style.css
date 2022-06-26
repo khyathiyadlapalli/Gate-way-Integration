@@ -16,7 +16,7 @@ stylesheet
      border-color: #f000f8; /*set the color you want here*/ 
      background-color: rgb(142, 243, 98); 
      font-weight: bold; 
-     font-size: 18px; 
+     font-size: 15px; 
      border-radius: 12px; 
  } 
   
@@ -37,7 +37,7 @@ stylesheet
      border-color: #f000f8; /*set the color you want here*/ 
      background-color: rgb(142, 243, 98); 
      font-weight: bold; 
-     font-size: 18px; 
+     font-size: 15px; 
      border-radius: 12px; 
  } 
   
@@ -47,7 +47,7 @@ stylesheet
          font-size: 25px; 
          font-family: ArialBlack, BellMT, sans-serif; 
          color: black; 
-         padding: 6px 13px; 
+         padding: 4px 12px; 
          text-decoration: none; 
          transition: .5s; 
  } 
@@ -58,7 +58,7 @@ stylesheet
  } 
   
  .navbar-brand{ 
-     padding-right: 200px; 
+     padding-right: 100px; 
      }
      </body>
      </html>
